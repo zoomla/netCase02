@@ -1,0 +1,9 @@
+D:\visual-studio\窗体开发0621\04制作登录和退出按钮\bin\Debug\04制作登录和退出按钮.exe.config
+D:\visual-studio\窗体开发0621\04制作登录和退出按钮\bin\Debug\04制作登录和退出按钮.exe
+D:\visual-studio\窗体开发0621\04制作登录和退出按钮\bin\Debug\04制作登录和退出按钮.pdb
+D:\visual-studio\窗体开发0621\04制作登录和退出按钮\obj\Debug\_04制作登录和退出按钮.Form1.resources
+D:\visual-studio\窗体开发0621\04制作登录和退出按钮\obj\Debug\_04制作登录和退出按钮.Properties.Resources.resources
+D:\visual-studio\窗体开发0621\04制作登录和退出按钮\obj\Debug\04制作登录和退出按钮.csproj.GenerateResource.cache
+D:\visual-studio\窗体开发0621\04制作登录和退出按钮\obj\Debug\04制作登录和退出按钮.csproj.CoreCompileInputs.cache
+D:\visual-studio\窗体开发0621\04制作登录和退出按钮\obj\Debug\04制作登录和退出按钮.exe
+D:\visual-studio\窗体开发0621\04制作登录和退出按钮\obj\Debug\04制作登录和退出按钮.pdb

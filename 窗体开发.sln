@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01窗体入门", "窗体入门\01窗体入门.csproj", "{421E005A-D709-4CFA-B2C0-15C01A7D645F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02MDI窗体", "MDI窗体\02MDI窗体.csproj", "{DA10BDED-6A7E-4616-A9FB-B97CE9E494D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03图形窗体", "图形窗体\03图形窗体.csproj", "{796E663E-DE6A-44AD-98E2-B258FC71016F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04制作登录和退出按钮", "04制作登录和退出按钮\04制作登录和退出按钮.csproj", "{38F3A293-72C1-4AEB-A5CF-95A123443BBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{421E005A-D709-4CFA-B2C0-15C01A7D645F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{421E005A-D709-4CFA-B2C0-15C01A7D645F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{421E005A-D709-4CFA-B2C0-15C01A7D645F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{421E005A-D709-4CFA-B2C0-15C01A7D645F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA10BDED-6A7E-4616-A9FB-B97CE9E494D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA10BDED-6A7E-4616-A9FB-B97CE9E494D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA10BDED-6A7E-4616-A9FB-B97CE9E494D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA10BDED-6A7E-4616-A9FB-B97CE9E494D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{796E663E-DE6A-44AD-98E2-B258FC71016F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{796E663E-DE6A-44AD-98E2-B258FC71016F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{796E663E-DE6A-44AD-98E2-B258FC71016F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{796E663E-DE6A-44AD-98E2-B258FC71016F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38F3A293-72C1-4AEB-A5CF-95A123443BBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38F3A293-72C1-4AEB-A5CF-95A123443BBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38F3A293-72C1-4AEB-A5CF-95A123443BBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38F3A293-72C1-4AEB-A5CF-95A123443BBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3DF9961-CC90-47EA-B541-F066BC77E6B2}
+	EndGlobalSection
+EndGlobal

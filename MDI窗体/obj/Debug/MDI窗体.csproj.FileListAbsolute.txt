@@ -1,0 +1,10 @@
+D:\visual-studio\窗体开发0621\MDI窗体\bin\Debug\MDI窗体.exe.config
+D:\visual-studio\窗体开发0621\MDI窗体\bin\Debug\MDI窗体.exe
+D:\visual-studio\窗体开发0621\MDI窗体\bin\Debug\MDI窗体.pdb
+D:\visual-studio\窗体开发0621\MDI窗体\obj\Debug\MDI窗体.csprojAssemblyReference.cache
+D:\visual-studio\窗体开发0621\MDI窗体\obj\Debug\MDI窗体.Form1.resources
+D:\visual-studio\窗体开发0621\MDI窗体\obj\Debug\MDI窗体.Properties.Resources.resources
+D:\visual-studio\窗体开发0621\MDI窗体\obj\Debug\MDI窗体.csproj.GenerateResource.cache
+D:\visual-studio\窗体开发0621\MDI窗体\obj\Debug\MDI窗体.csproj.CoreCompileInputs.cache
+D:\visual-studio\窗体开发0621\MDI窗体\obj\Debug\MDI窗体.exe
+D:\visual-studio\窗体开发0621\MDI窗体\obj\Debug\MDI窗体.pdb
