@@ -1,0 +1,10 @@
+D:\cSharp\netCase02\RichTextbox\bin\Debug\RichTextbox.exe.config
+D:\cSharp\netCase02\RichTextbox\bin\Debug\RichTextbox.exe
+D:\cSharp\netCase02\RichTextbox\bin\Debug\RichTextbox.pdb
+D:\cSharp\netCase02\RichTextbox\obj\Debug\RichTextbox.csprojAssemblyReference.cache
+D:\cSharp\netCase02\RichTextbox\obj\Debug\RichTextbox.Form1.resources
+D:\cSharp\netCase02\RichTextbox\obj\Debug\RichTextbox.Properties.Resources.resources
+D:\cSharp\netCase02\RichTextbox\obj\Debug\RichTextbox.csproj.GenerateResource.cache
+D:\cSharp\netCase02\RichTextbox\obj\Debug\RichTextbox.csproj.CoreCompileInputs.cache
+D:\cSharp\netCase02\RichTextbox\obj\Debug\RichTextbox.exe
+D:\cSharp\netCase02\RichTextbox\obj\Debug\RichTextbox.pdb
